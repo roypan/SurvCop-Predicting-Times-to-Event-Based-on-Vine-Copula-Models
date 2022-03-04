@@ -1,0 +1,12 @@
+Package: SurvCop
+Type: Package
+Title: SurvCop: Predicting Times to Event Based on Vine Copula Models
+Version: 0.1
+Date: 2022-01-01
+Author: S Pan; H Joe
+Maintainer: S Pan <shenyi.pan@stat.ubc.ca>
+Depends: R (>= 3.6.0), VineCopula, survival, mvtnorm
+Description: R functions for fitting vine copula models for a right-censored survival response with mixed continuous and discrete explanatory variables.  
+License: GPL-3
+LazyLoad: yes
+RoxygenNote: 7.1.2
