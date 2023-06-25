@@ -1,4 +1,4 @@
-# Conditional inference With Vine Copulas
+# SurvCop: R Package for Predicting Times to Event Based on Vine Copula Models
 
 This repository contains the code for the arvix paper [Predicting Times to Event Based on Vine Copula Models](https://arxiv.org/abs/2111.07179). 
 
